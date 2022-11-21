@@ -1,5 +1,7 @@
 # Creating Art through Neural Style Transfer
 
+link to medium article : https://ashutosh-saxena.medium.com/creating-art-through-neural-style-transfer-5e51e559fef9
+
 Ever wish you could paint like Picasso or Van Gogh!?.
 
 This is known as neural style transfer! This is a technique outlined in Leon A. Gatys’ paper, A Neural Algorithm of Artistic Style, which is a great read, and you should definitely check it out.
